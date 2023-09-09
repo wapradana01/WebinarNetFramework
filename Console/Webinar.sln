@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webinar", "Webinar\Webinar.csproj", "{CBF5F0E1-31EA-4406-AB85-9B0644E871BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF5F0E1-31EA-4406-AB85-9B0644E871BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF5F0E1-31EA-4406-AB85-9B0644E871BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF5F0E1-31EA-4406-AB85-9B0644E871BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF5F0E1-31EA-4406-AB85-9B0644E871BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F7542B3-4A33-4B87-B6C5-EEFBEF98636B}
+	EndGlobalSection
+EndGlobal
